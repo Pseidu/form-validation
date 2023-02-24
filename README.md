@@ -13,5 +13,5 @@ Para ampliar (Further Reading):
 [Different Approaches to Validation Article](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)  
 [How to Store User Passwords](https://rangle.io/blog/how-to-store-user-passwords-and-overcome-security-threats-in-2017)
 
-Como que realmente no enviamos nada a Backend, utilizaremos en la form
+Como que realmente no enviamos nada (no hay Backend), utilizaremos en la form
 e.preventDefault() para evitar que refresque la página
